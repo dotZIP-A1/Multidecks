@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Cube Calamity",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:\\Program Files\\LOVE\\love.exe",
+            "args": [
+                "${workspaceFolder}"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

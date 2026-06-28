@@ -1,0 +1,164 @@
+{
+ "frames": {
+   "cardBaseRed": {
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardBaseBlue": {
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardBaseGreen": {
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardBaseYellow": {
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardBasePurple": {
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphOne": {
+    "frame": { "x": 0, "y": 48, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphTwo": {
+    "frame": { "x": 32, "y": 48, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphThree": {
+    "frame": { "x": 64, "y": 48, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphFour": {
+    "frame": { "x": 96, "y": 48, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphFive": {
+    "frame": { "x": 128, "y": 48, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphSix": {
+    "frame": { "x": 0, "y": 96, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphSeven": {
+    "frame": { "x": 32, "y": 96, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphEight": {
+    "frame": { "x": 64, "y": 96, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphNine": {
+    "frame": { "x": 96, "y": 96, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardGlyphZero": {
+    "frame": { "x": 128, "y": 96, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardWildDrawTwo": {
+    "frame": { "x": 0, "y": 144, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardWildSkip": {
+    "frame": { "x": 32, "y": 144, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardWildSuperSkip": {
+    "frame": { "x": 64, "y": 144, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   "cardSymbolSpiral": {
+    "frame": { "x": 96, "y": 144, "w": 32, "h": 48 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.1-dev",
+  "image": "resources\\textures\\cardtextures.png",
+  "format": "RGBA8888",
+  "size": { "w": 160, "h": 192 },
+  "scale": "1"
+ }
+}

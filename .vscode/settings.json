@@ -1,0 +1,9 @@
+{
+  "Lua.diagnostics.globals": [
+    "love"
+  ],
+  "[lua]": {
+    "editor.defaultFormatter": "JohnnyMorganz.stylua",
+    "editor.formatOnSave": true
+  }
+}
